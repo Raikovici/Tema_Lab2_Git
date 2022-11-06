@@ -1,0 +1,3 @@
+linia 6
+linia 7
+linia 8
